@@ -1,0 +1,23 @@
+.logo {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+
+.navbar{
+    background-color: #DA001E !important  ;
+}
+
+.navigation{
+    color:white !important ;
+}
+
+.navigation:hover{
+    color: #F9D0A3 !important   ;
+}
+
+a{
+    font-family:comfortaa ;
+    font-weight: 600;
+}
+
